@@ -15,7 +15,7 @@
 </p>
 
 <em><h1 align="center">The code is available in application directly if you wish in releases !</h1></em>
-> 
+> https://github.com/Kurama250/InfoNetwork/releases/tag/v1.0
 
 # Tutorial to install InfoNetwork ! For Windows
 
