@@ -10,8 +10,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/pypi/implementation/pip?label=pip">
-  <img src="https://img.shields.io/pypi/v/pyttsx3?label=psutil">
-  <img src="https://img.shields.io/pypi/v/pygame?label=colorama">
+  <img src="https://img.shields.io/pypi/v/psutil?label=psutil">
+  <img src="https://img.shields.io/pypi/v/pyperclip?label=pyperclip">
+  <img src="https://img.shields.io/pypi/v/tk?label=tk">
 </p>
 
 <em><h1 align="center">The code is available in application directly if you wish in releases !</h1></em>
