@@ -7,12 +7,12 @@ if %errorlevel% neq 0 (
     exit /b 1
 )
 
-python -m pip show psutil colorama >nul 2>&1
+python -m pip show psutil pyperclip tk >nul 2>&1
 if %errorlevel% neq 0 (
     echo psutil colorama module is not installed. Installing psutil colorama...
-    python -m pip install psutil colorama
+    python -m pip install psutil pyperclip tk
     if %errorlevel% equ 0 (
-        echo Installation of psutil colorama completed successfully!
+        echo Installation of psutil pyperclip tk completed successfully!
     ) else (
         echo An error occurred while installing the psutil colorama module.
     )
