@@ -109,10 +109,7 @@ update_ui.is_updating = False
 
 root = tk.Tk()
 
-# Titre et icône de la fenêtre
 root.title("InfoNetwork | Alpha 1.1")
-root.iconbitmap("C:\\Users\\julie\\Desktop\\InfoNetwork\\icone.ico")  # Assurez-vous que le chemin est correct
-
 root.geometry("700x500")
 root.configure(bg="#333333")
 
