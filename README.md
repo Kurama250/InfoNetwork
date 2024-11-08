@@ -35,7 +35,7 @@
 - On CMD (Command prompt) :
 
 ```shell
-pip install psutil colorama
+pip install psutil pyperclip tk
 ```
 - After, open "InfoNetwork.py"
 
