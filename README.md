@@ -43,5 +43,5 @@ pip install psutil pyperclip tk
 
 ![alt text](https://github.com/Kurama250/InfoNetwork/blob/main/InfoNetwork.png)
 
-<h3 align="center"><strong>Support on Discord :</strong> <a href="https://discord.gg/6aebQGdDxB">Discord Link</a></3>
+<h3 align="center"><strong>Support on Discord :</strong> <a href="https://discord.gg/6aebQGdDxB">Discord Link</a> - Create a Ticket with bot for help</3>
 <h3 align="center">If you like this repository don't hesitate to give it a star ⭐ !</h3>
